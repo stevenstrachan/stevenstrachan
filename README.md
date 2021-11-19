@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @stevenstrachan
+- 👀 I’m interested in blockchain technology and smart contracts, AI, DEFI and FinTech 
+- 🌱 I’m currently learning python, blockchain basics 
+- 📫 How to reach me strachanthethird@gmail.com
